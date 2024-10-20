@@ -16,6 +16,9 @@ I’m a passionate **MERN Stack Developer** with expertise in both frontend and 
 - **Databases**:  MongoDB, Mongoose
 - **APIs**: RESTful APIs
 
+- #### 💻 **Other Expertise**
+- **Data Structures and Algorithms**:  Proficient in Java, actively enhancing problem-solving skills
+
 
 ### 🤝 **Let's Connect**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
