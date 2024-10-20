@@ -7,16 +7,19 @@ I’m a passionate **MERN Stack Developer** with expertise in both frontend and 
 ### 🔧 **Technologies & Tools**
 
 #### 🎨 **Frontend Skills**
+
 - **Frameworks/Libraries**: React
 - **Languages**: HTML, CSS, JavaScript
 
 #### 🚀 **Backend Skills**
+
 - **Languages**:  JavaScript (Node.js)
 - **Frameworks**:  Express.js
 - **Databases**:  MongoDB, Mongoose
 - **APIs**: RESTful APIs
 
-- #### 💻 **Other Expertise**
+#### 💻 **Other Expertise**
+
 - **Data Structures and Algorithms**:  Proficient in Java, actively enhancing problem-solving skills
 
 
